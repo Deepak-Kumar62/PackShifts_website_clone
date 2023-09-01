@@ -1,0 +1,146 @@
+@media only screen and (min-width: 200px) and (max-width: 349px){
+    .navbar_middle{
+        width: 100%;
+    }
+
+    .logo img{
+        width: 120px;
+        padding-left: 8px;
+    }
+
+    .contact{
+        font-size: 14px;
+        padding: 7px 8px;
+        margin-right: 8px;
+    }
+}
+
+@media only screen and (min-width: 350px) and (max-width: 575px){
+    .navbar_middle{
+        width: 100%;
+    }
+
+    .logo img{
+        width: 150px;
+        padding-left: 8px;
+    }
+
+    .contact{
+        font-size: 18px;
+        padding: 7px 10px;
+        margin-right: 8px;
+    }
+
+    .banner{
+        padding: 40px 0;
+    }
+
+    .banner_middle{
+        width: 85%;
+        display: block;
+    }
+
+    .banner_c1{
+        width: 100%;
+    }
+
+    .banner_c1_headings{
+        gap: 35px;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 500;
+    }
+
+    .banner_c2{
+        width: 100%;
+    }
+
+    .logIn-form{
+        width: 95%; 
+    }
+
+    .video{
+        flex-basis: 100%;
+    }
+    
+    .heading_videos,.heading_packing{
+        font-size: 22px;
+    }
+
+    .youtube_video{
+        height: 149px;
+    }
+
+    .services-section-middle{
+        width: 90%;
+    }
+
+    .services-card{
+        width: 100%;
+    }
+
+    .why-packshift-middle{
+        width: 90%;
+    }
+
+    .why-packshift{
+        width: 45%;
+    }
+
+    .why-packshift-para{
+        font-size: 17px;
+    }
+
+    .services{
+        width: 45%;
+    }
+
+    .services h4{
+        font-size: 24px;
+    }
+    
+    .services h5{
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .branch-section-middle{
+        width: 90%;
+    }
+
+    .braaches{
+        width: 100%;
+    }
+
+    .braaches h4{
+        font-size: 18px;
+        font-weight: 700;
+    }
+    
+    .braaches p{
+        font-size: 16px;
+        color: #2f2f2f;
+    }
+
+    .packers-movers{
+        width: 100%;
+    }
+
+    .footer-middle{
+        width: 90%;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px){
+    .navbar_middle{
+        width: 90%;
+    }
+
+    .logo img{
+        width: 200px;
+    }
+
+    .contact{
+        font-size: 22px;
+    }
+}
